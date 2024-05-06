@@ -1,0 +1,33 @@
+{
+  "name": "figma-export-styles-to-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.9.0 <21",
+    "pnpm": ">=8.15.1 <9"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "figma",
+    "figma-api",
+    "Tailwind CSS Style Generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrFiregore/figma-export-styles-to-tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MrFiregore/figma-export-styles-to-tailwind/issues"
+  },
+  "homepage": "https://github.com/MrFiregore/figma-export-styles-to-tailwind#readme",
+
+  "author": {
+    "name": "MrFiregore",
+    "url": "https://github.com/MrFiregore"
+  },
+  "license": "ISC"
+}
